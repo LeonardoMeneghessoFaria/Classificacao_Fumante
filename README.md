@@ -25,7 +25,7 @@ Foi feita a implementação desse modelo em um webapp criado no streamlit.
 
 
 
-- Já a forma de input de dados, somente seria preencher os valores desejáveis nos mecanismos de dados mostrado na figura abaixo.
+- Já a forma de input de dados, somente seria preencher os valores desejáveis nos mecanismos de dados e clicar no botão submit mostrado na figura abaixo.
 
 ![image](https://user-images.githubusercontent.com/87080266/155068658-645fbfa4-dc41-435d-a4ca-662299b90b0a.png)
 
