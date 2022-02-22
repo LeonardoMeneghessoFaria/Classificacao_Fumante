@@ -3,6 +3,8 @@
 Classificação de Fumantes utilizando Machine Learning
 
 ![image](https://user-images.githubusercontent.com/87080266/155069249-0ef9d6a8-0052-465d-9c74-867777cb4629.png)
+![image](https://user-images.githubusercontent.com/87080266/155069332-c1159241-fa97-4562-9467-39ebe5b39af5.png)
+
 
 
 # Implementação do Modelo
