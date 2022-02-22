@@ -2,6 +2,9 @@
 
 Classificação de Fumantes utilizando Machine Learning
 
+![image](https://user-images.githubusercontent.com/87080266/155069033-d7e936af-4844-4bbc-8b36-2fbe632b459c.png)
+
+
 # Implementação do Modelo
 
 Foi feita a implementação desse modelo em um webapp criado pelo streamlit
