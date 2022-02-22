@@ -9,6 +9,8 @@ Classificação de Fumantes utilizando Machine Learning
 Foi feita a implementação desse modelo em um webapp criado no streamlit.
 
 No webapp foi criado duas formas de se utilizar o modelo treinado:
+1- Por upload de uma tabela CSV
+2- Input dos dados manualmente
 
 ![image](https://user-images.githubusercontent.com/87080266/155069708-670647b2-159a-4cf2-a590-3fcfe1d3ba34.png)
 
