@@ -18,13 +18,13 @@ Foi feita a implementação desse modelo em um webapp criado no streamlit.
 
 
 
-- Utilizando a forma de upload de tabela, seria somente clicar no botão Browse files e selecionar dentro do seu computador o arquivo csv.
+- Utilizando a forma de upload de tabela, seria somente clicar no botão Browse files e selecionar dentro do seu computador o arquivo csv, como a figura abaixo mostra.
 
 ![image](https://user-images.githubusercontent.com/87080266/155068325-a4d92542-c9d2-4f48-8b07-169f61b63626.png)
 
 
 
-
+- Já a forma de input de dados, somente seria preencher os valores desejáveis nos mecanismos de dados mostrado na figura abaixo.
 
 ![image](https://user-images.githubusercontent.com/87080266/155068658-645fbfa4-dc41-435d-a4ca-662299b90b0a.png)
 
