@@ -17,6 +17,7 @@ Foi feita a implementação desse modelo em um webapp criado no streamlit.
 ![image](https://user-images.githubusercontent.com/87080266/155069708-670647b2-159a-4cf2-a590-3fcfe1d3ba34.png)
 
 
+
 - Utilizando a forma de upload de tabela, seria somente clicar no botão Browse files e selecionar dentro do seu computador o arquivo csv.
 
 ![image](https://user-images.githubusercontent.com/87080266/155068325-a4d92542-c9d2-4f48-8b07-169f61b63626.png)
