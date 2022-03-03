@@ -4,6 +4,9 @@ Classificação de Fumantes utilizando Machine Learning
 
 ![image](https://user-images.githubusercontent.com/87080266/155070469-729b4c48-ebc4-404b-976a-f5821e9e78ed.png)
 
+# Sobre o projeto
+
+Um projeto Hands On para colocar os conhecimentos do curso Comunidade DS em prática, onde no projeto o desafio era fazer a classificação de pessoas fumantes ou não fumantes de uma base de dados em CSV utilizando machine learning. Um outro desafio era simular o método ETL, aonde eu subi os dados para a plataforma SQLite e fiz o método ETL para poder continuar o projeto. Como tinha pouca transformação para fazer na base de dados, a parte de Transformation eu assimilei como feature engineering.
 
 # Implementação do Modelo
 
